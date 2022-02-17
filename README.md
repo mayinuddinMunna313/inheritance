@@ -1,4 +1,4 @@
-# inheritance
+# Inheritance
 
 একটি Class অন্য একটি Class থেকে তার properties এবং characteristics বা বৈশিষ্ট্য নেওয়াকে প্রোগ্রামিং ভাষায় Inheritance বলে।
 
